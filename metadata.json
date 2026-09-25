@@ -1,0 +1,6 @@
+{
+  "name": "Veyra Estates – Luxury Real Estate & Prime Architectural Properties",
+  "description": "Explore exceptional prime estates, waterfront villas, and skyline penthouses with Veyra Estates. International luxury real estate brokerage and private advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
